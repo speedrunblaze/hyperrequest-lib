@@ -27,5 +27,3 @@ if response:
 - Prevents request flooding.
 - Customizable configuration.
 - Provides formatted logging.
-
-Author: **speedrunblaze**
