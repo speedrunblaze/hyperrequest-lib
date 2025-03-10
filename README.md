@@ -5,7 +5,7 @@ HyperRequest is an optimized request management library that automatically handl
 ## Installation
 
 ```sh
-pip install .
+pip install git+https://github.com/speedrunblaze/hyperrequest-lib.git
 ```
 
 ## Usage
